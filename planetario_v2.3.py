@@ -1,18 +1,18 @@
 # -*- coding: cp1252 -*-
 
 #         _\|/_
-#         (O-O)
+#         (O-O)               A ver, que tenemos por aqui....
 # -----oOO-(_)-OOo----------------------------------------------------
 
 
 #######################################################################
 # ******************************************************************* #
 # *                                                                 * #
-# *                   Autor:  Eulogio López Cayuela                 * #
+# *                   Autor:  Eulogio LÃ³pez Cayuela                 * #
 # *                                                                 * #
 # *                 Planetario Educativo con vPython                * #
 # *                                                                 * #
-# *                  Versión 2.3   Fecha: 24/11/2015                * #
+# *                  VersiÃ³n 2.3   Fecha: 24/11/2015                * #
 # *                                                                 * #
 # ******************************************************************* #
 #######################################################################
@@ -114,7 +114,7 @@ a10 = 0.0 #giro pluton
 
 #Relacion entre los periodos de translacion de los planetas
 #velocidads en relacion a la velocidad terrestre
-year = 365.0  # un año 365 dias
+year = 365.0  # un aÃ±o 365 dias
 
 velocidad_Virtual = 0.006 #velocidad vpython 0.006
 v_mercurio = year/88
