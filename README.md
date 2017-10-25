@@ -2,7 +2,7 @@
 
 Autor: Eulogio López Cayuela
 
-Versión 2.3 Fecha: 30/03/2016
+Versión 2.3 Fecha: 14/11/2015
 
 NOTA SOBRE ESTA VERSION:
 
